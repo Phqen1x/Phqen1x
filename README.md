@@ -1,4 +1,4 @@
-## Hi there 👋
+### I am currently a psychology major and cognitive science and software development minor at the University of North Carolina at Charlotte
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Phqen1x&show_icons=true&show=reviews,prs_merged)
 
 <!--
