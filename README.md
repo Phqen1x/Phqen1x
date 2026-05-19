@@ -1,5 +1,9 @@
 ![Github stats](http://github-user-stats.linuxgroove.com/api?username=Phqen1x&show=reviews,prs_merged,prs_merged_percentage)
 
+[![curseforge](https://snapcraft.io/curseforge/badge.svg)](https://snapcraft.io/curseforge)
+[![lemon-zest](https://snapcraft.io/lemon-zest/badge.svg)](https://snapcraft.io/lemon-zest)
+[![crosswords](https://snapcraft.io/crosswords/badge.svg)](https://snapcraft.io/crosswords)
+
 <!--
 **Phqen1x/Phqen1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
