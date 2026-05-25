@@ -3,6 +3,7 @@
 [![curseforge](https://snapcraft.io/curseforge/badge.svg)](https://snapcraft.io/curseforge)
 [![lemon-zest](https://snapcraft.io/lemon-zest/badge.svg)](https://snapcraft.io/lemon-zest)
 [![crosswords](https://snapcraft.io/crosswords/badge.svg)](https://snapcraft.io/crosswords)
+[![modrinth](https://snapcraft.io/modrinth/badge.svg)](https://snapcraft.io/modrinth)
 
 <!--
 **Phqen1x/Phqen1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
