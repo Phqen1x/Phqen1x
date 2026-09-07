@@ -1,4 +1,4 @@
-![Github stats](http://github-user-stats.linuxgroove.com/api?username=Phqen1x&show=reviews,prs_merged,prs_merged_percentage)
+![Github stats](http://github-user-stats.linuxgroove.com:81/api?username=Phqen1x&show=reviews,prs_merged,prs_merged_percentage)
 
 [![curseforge](https://snapcraft.io/curseforge/badge.svg)](https://snapcraft.io/curseforge)
 [![lemon-zest](https://snapcraft.io/lemon-zest/badge.svg)](https://snapcraft.io/lemon-zest)
